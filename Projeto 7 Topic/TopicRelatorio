@@ -19,7 +19,7 @@ eu tentei organizar meu codigo da melhor forma possivel
 ai eu tentei seguir o diagrama o mais que eu puder mas fiquei acrescentando alguns metodos so para que o metodo subir funcionasse do melhor jeito.
 
 entao a minha logica foi bem simples na real
-em vez de fazer dois arraylist um para preferencia e outro normal so fiz um que se chama pessoas e ai pela segunda entrada do usario definia o que era os preferidos.
+em vez de fazer dois arraylist um para preferencia e outro normal so fiz um que se chama pessoas e ai pela segunda entrada do usario definia o que era os preferencias.
 
 fiz o metodo subir e descer e como tinha falado o mais dificil foi o subir porque tinha q verificar um monte de dados e dai deu certo rapidin com o metodo descer.
 
